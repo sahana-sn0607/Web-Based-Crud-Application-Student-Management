@@ -1,4 +1,4 @@
-# Student Management System (Java)
+# Web-Based-Crud-Application-Student-Management (Java)
 *Domain* : Frontend Web Development
 *Description* :This project demonstrates how frontend web applications manage and manipulate user data dynamically using HTML, CSS, and JavaScript without relying on backend services.The application allows users to perform CRUD operations through an interactive form and dynamically updated table. The project demonstrates core frontend concepts such as event handling, input validation, and DOM manipulation. Similar systems are widely used in educational institutions and administrative platforms, where this frontend logic can be integrated with backend services for persistent data management.
 *Tools used* : HTML,CSS,Javascript,Frontend,Web-development,Crud-application
